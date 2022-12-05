@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module",
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "callbacks": "node src/callbacks/challenge.js"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "gabriel livi <livigabriel89@gmail.com>",
+  "license": "MIT",
+  "description": ""
+}
